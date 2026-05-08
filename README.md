@@ -68,3 +68,10 @@ class Owis {
     "Git & GitHub"
   ];
 }
+
+📈 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="47%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" width="47%" /> </div>
+
+📫 Contact Me
+📧 Email: owiszaidan4@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/owis-zaidan-b6aa4b370?utm_source=share_via&utm_content=profile&utm_medium=member_ios
